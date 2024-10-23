@@ -1,0 +1,52 @@
+{
+  "company": [
+    {
+      "name": "NT Inf",
+      "empcount": "55",
+      "revenue": "25000",
+      "address": "1st street\n\npin 600048",
+      "isactive": true,
+      "id": "2"
+    },
+    {
+      "name": "NT tech",
+      "empcount": "1000",
+      "revenue": "2000",
+      "address": "test",
+      "isactive": true,
+      "id": "3"
+    },
+    {
+      "name": "NTT",
+      "empcount": "1000",
+      "revenue": "2000",
+      "address": "test",
+      "isactive": true,
+      "id": "4"
+    },
+    {
+      "name": "Infotech",
+      "empcount": "1000",
+      "revenue": "2000",
+      "address": "test",
+      "isactive": true,
+      "id": "5"
+    },
+    {
+      "name": "IBM",
+      "empcount": "1000",
+      "revenue": "2000",
+      "address": "test",
+      "isactive": true,
+      "id": "6"
+    },
+    {
+      "id": "14",
+      "name": "nn",
+      "empcount": 100,
+      "revenue": 1000,
+      "address": "hyd",
+      "isactive": true
+    }
+  ]
+}
